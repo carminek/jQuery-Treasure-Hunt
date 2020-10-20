@@ -1,0 +1,73 @@
+.radar {
+    width: 500px;
+}
+
+.goku {
+    width: 500px;
+}
+
+.threestar {
+    width: 500px;
+}
+
+.twostar {
+    width: 500px;
+}
+
+.sixstar {
+    width: 500px;
+}
+
+.onestar {
+    width: 500px;
+}
+
+.sevenstar {
+    width: 500px;
+}
+
+.all {
+    width: 500px;
+}
+
+.shenron {
+    width: 500px;
+}
+
+body {
+    text-align: center;
+}
+
+.one {
+    display: flex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.namek {
+    width: 90%;
+    height: 90%;
+}
+
+.vegeta {
+    width: 1000px;
+    height: 1000px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+}
+
+h3 {
+    font-family: 'Lobster', cursive;
+}
+
+.shenron {
+    width: 1000px;
+    height: 1000px;
+}
